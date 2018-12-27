@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Befor Hello added words...
 
 Hello from very first file at linuxgb repo!!!
 
 After Hello, goodbye!
+=======
+Hello from very first fileat linuxgb repo!!!
+123
+>>>>>>> master
+567
